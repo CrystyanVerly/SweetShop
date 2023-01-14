@@ -1,0 +1,1 @@
+A landing page project with just html and css.
